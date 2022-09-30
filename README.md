@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nickelback53&layout=compact&theme=dark"/>
+
 <!--
 **Nickelback53/Nickelback53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
